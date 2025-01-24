@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift asynchronous programming: insufficient error handling in a completion handler. The `fetchData` function simulates a network request; however, its error handling is minimal.  The solution enhances error handling and provides more informative error messages.
